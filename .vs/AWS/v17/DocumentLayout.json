@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abhinav\\source\\repos\\AWS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35928720-95E5-48BB-A1E1-BBA9D9324217}|S3FileUpload\\S3FileUpload.csproj|c:\\users\\abhinav\\source\\repos\\aws\\s3fileupload\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35928720-95E5-48BB-A1E1-BBA9D9324217}|S3FileUpload\\S3FileUpload.csproj|solutionrelative:s3fileupload\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35928720-95E5-48BB-A1E1-BBA9D9324217}|S3FileUpload\\S3FileUpload.csproj|c:\\users\\abhinav\\source\\repos\\aws\\s3fileupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35928720-95E5-48BB-A1E1-BBA9D9324217}|S3FileUpload\\S3FileUpload.csproj|solutionrelative:s3fileupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35928720-95E5-48BB-A1E1-BBA9D9324217}|S3FileUpload\\S3FileUpload.csproj|c:\\users\\abhinav\\source\\repos\\aws\\s3fileupload\\controller\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35928720-95E5-48BB-A1E1-BBA9D9324217}|S3FileUpload\\S3FileUpload.csproj|solutionrelative:s3fileupload\\controller\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35928720-95E5-48BB-A1E1-BBA9D9324217}|S3FileUpload\\S3FileUpload.csproj|c:\\users\\abhinav\\source\\repos\\aws\\s3fileupload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35928720-95E5-48BB-A1E1-BBA9D9324217}|S3FileUpload\\S3FileUpload.csproj|solutionrelative:s3fileupload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4EA96F-D71D-4893-A135-EB00D7585CD3}|AwsS3\\AwsS3.csproj|c:\\users\\abhinav\\source\\repos\\aws\\awss3\\models\\s3object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4EA96F-D71D-4893-A135-EB00D7585CD3}|AwsS3\\AwsS3.csproj|solutionrelative:awss3\\models\\s3object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4EA96F-D71D-4893-A135-EB00D7585CD3}|AwsS3\\AwsS3.csproj|c:\\users\\abhinav\\source\\repos\\aws\\awss3\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4EA96F-D71D-4893-A135-EB00D7585CD3}|AwsS3\\AwsS3.csproj|solutionrelative:awss3\\services\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35928720-95E5-48BB-A1E1-BBA9D9324217}|S3FileUpload\\S3FileUpload.csproj|c:\\users\\abhinav\\source\\repos\\aws\\s3fileupload\\s3fileupload.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35928720-95E5-48BB-A1E1-BBA9D9324217}|S3FileUpload\\S3FileUpload.csproj|solutionrelative:s3fileupload\\s3fileupload.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 109,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Abhinav\\source\\repos\\AWS\\S3FileUpload\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "S3FileUpload\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Abhinav\\source\\repos\\AWS\\S3FileUpload\\Properties\\launchSettings.json",
+              "RelativeToolTip": "S3FileUpload\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T07:24:59.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abhinav\\source\\repos\\AWS\\S3FileUpload\\Program.cs",
+              "RelativeDocumentMoniker": "S3FileUpload\\Program.cs",
+              "ToolTip": "C:\\Users\\Abhinav\\source\\repos\\AWS\\S3FileUpload\\Program.cs",
+              "RelativeToolTip": "S3FileUpload\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:18:23.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abhinav\\source\\repos\\AWS\\S3FileUpload\\appsettings.json",
+              "RelativeDocumentMoniker": "S3FileUpload\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abhinav\\source\\repos\\AWS\\S3FileUpload\\appsettings.json",
+              "RelativeToolTip": "S3FileUpload\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T07:12:24.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\Abhinav\\source\\repos\\AWS\\S3FileUpload\\Controller\\UploadController.cs",
+              "RelativeDocumentMoniker": "S3FileUpload\\Controller\\UploadController.cs",
+              "ToolTip": "C:\\Users\\Abhinav\\source\\repos\\AWS\\S3FileUpload\\Controller\\UploadController.cs",
+              "RelativeToolTip": "S3FileUpload\\Controller\\UploadController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:53:35.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "S3FileUpload",
+              "DocumentMoniker": "C:\\Users\\Abhinav\\source\\repos\\AWS\\S3FileUpload\\S3FileUpload.csproj",
+              "RelativeDocumentMoniker": "S3FileUpload\\S3FileUpload.csproj",
+              "ToolTip": "C:\\Users\\Abhinav\\source\\repos\\AWS\\S3FileUpload\\S3FileUpload.csproj",
+              "RelativeToolTip": "S3FileUpload\\S3FileUpload.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T06:34:11.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Abhinav\\source\\repos\\AWS\\AwsS3\\Services\\StorageService.cs",
+              "RelativeDocumentMoniker": "AwsS3\\Services\\StorageService.cs",
+              "ToolTip": "C:\\Users\\Abhinav\\source\\repos\\AWS\\AwsS3\\Services\\StorageService.cs",
+              "RelativeToolTip": "AwsS3\\Services\\StorageService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:38:35.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "S3object.cs",
+              "DocumentMoniker": "C:\\Users\\Abhinav\\source\\repos\\AWS\\AwsS3\\Models\\S3object.cs",
+              "RelativeDocumentMoniker": "AwsS3\\Models\\S3object.cs",
+              "ToolTip": "C:\\Users\\Abhinav\\source\\repos\\AWS\\AwsS3\\Models\\S3object.cs",
+              "RelativeToolTip": "AwsS3\\Models\\S3object.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:29:18.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 109,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

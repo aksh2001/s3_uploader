@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D7M9MGtMyX8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abhinav\\source\\repos\\AWS\\AwsS3\\AwsS3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abhinav\\.nuget\\packages\\awssdk.core\\3.7.400.57\\awssdk.core.3.7.400.57.nupkg.sha512",
+    "C:\\Users\\Abhinav\\.nuget\\packages\\awssdk.s3\\3.7.407.1\\awssdk.s3.3.7.407.1.nupkg.sha512"
+  ],
+  "logs": []
+}

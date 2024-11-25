@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwsS3", "AwsS3\AwsS3.csproj", "{FD4EA96F-D71D-4893-A135-EB00D7585CD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "S3FileUpload", "S3FileUpload\S3FileUpload.csproj", "{35928720-95E5-48BB-A1E1-BBA9D9324217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD4EA96F-D71D-4893-A135-EB00D7585CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4EA96F-D71D-4893-A135-EB00D7585CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4EA96F-D71D-4893-A135-EB00D7585CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4EA96F-D71D-4893-A135-EB00D7585CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35928720-95E5-48BB-A1E1-BBA9D9324217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35928720-95E5-48BB-A1E1-BBA9D9324217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35928720-95E5-48BB-A1E1-BBA9D9324217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35928720-95E5-48BB-A1E1-BBA9D9324217}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DC56F03-9FE9-4254-9238-448AE71E5E2C}
+	EndGlobalSection
+EndGlobal

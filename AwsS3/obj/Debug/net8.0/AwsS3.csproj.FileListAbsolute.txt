@@ -1,0 +1,12 @@
+C:\Users\Abhinav\source\repos\AWS\AwsS3\bin\Debug\net8.0\AwsS3.deps.json
+C:\Users\Abhinav\source\repos\AWS\AwsS3\bin\Debug\net8.0\AwsS3.dll
+C:\Users\Abhinav\source\repos\AWS\AwsS3\bin\Debug\net8.0\AwsS3.pdb
+C:\Users\Abhinav\source\repos\AWS\AwsS3\obj\Debug\net8.0\AwsS3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abhinav\source\repos\AWS\AwsS3\obj\Debug\net8.0\AwsS3.AssemblyInfoInputs.cache
+C:\Users\Abhinav\source\repos\AWS\AwsS3\obj\Debug\net8.0\AwsS3.AssemblyInfo.cs
+C:\Users\Abhinav\source\repos\AWS\AwsS3\obj\Debug\net8.0\AwsS3.csproj.CoreCompileInputs.cache
+C:\Users\Abhinav\source\repos\AWS\AwsS3\obj\Debug\net8.0\AwsS3.dll
+C:\Users\Abhinav\source\repos\AWS\AwsS3\obj\Debug\net8.0\refint\AwsS3.dll
+C:\Users\Abhinav\source\repos\AWS\AwsS3\obj\Debug\net8.0\AwsS3.pdb
+C:\Users\Abhinav\source\repos\AWS\AwsS3\obj\Debug\net8.0\ref\AwsS3.dll
+C:\Users\Abhinav\source\repos\AWS\AwsS3\obj\Debug\net8.0\AwsS3.csproj.AssemblyReference.cache
